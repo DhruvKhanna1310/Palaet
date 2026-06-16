@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/palate-demo/static/css/main.dbc7646e.css",
-    "main.js": "/palate-demo/static/js/main.95b15e39.js",
-    "index.html": "/palate-demo/index.html",
-    "main.dbc7646e.css.map": "/palate-demo/static/css/main.dbc7646e.css.map",
-    "main.95b15e39.js.map": "/palate-demo/static/js/main.95b15e39.js.map"
+    "main.css": "/Palaet/static/css/main.dbc7646e.css",
+    "main.js": "/Palaet/static/js/main.95b15e39.js",
+    "index.html": "/Palaet/index.html",
+    "main.dbc7646e.css.map": "/Palaet/static/css/main.dbc7646e.css.map",
+    "main.95b15e39.js.map": "/Palaet/static/js/main.95b15e39.js.map"
   },
   "entrypoints": [
     "static/css/main.dbc7646e.css",
