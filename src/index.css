@@ -1,0 +1,39 @@
+/* ── OBSIDIAN & ROSE — DESIGN TOKENS ── */
+:root {
+  --black: #080808;
+  --ink: #111111;
+  --soft: #1A1A1A;
+  --rose: #8B2040;
+  --rose-hi: #A8364E;
+  --blush: #D4849A;
+  --blush-dim: #B06078;
+  --petal: #F5E8EE;
+  --petal-dim: #C4A8B2;
+  --gray: #7A5060;
+  --green: #6BBF6B;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--black);
+  color: var(--petal);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  font-family: inherit;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
